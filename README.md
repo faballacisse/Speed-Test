@@ -1,2 +1,2 @@
-# Speed-Test
- Javascript project
+# Typing Speed Test
+ Javascript Project
